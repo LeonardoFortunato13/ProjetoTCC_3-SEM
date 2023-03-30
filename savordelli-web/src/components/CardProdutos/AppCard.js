@@ -1,5 +1,4 @@
 
-
 function AppCard() {
     return (
         //usando props para passar os dados pelos componentes
